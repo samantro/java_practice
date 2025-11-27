@@ -1,4 +1,4 @@
-package StringPractice;
+package src.StringPractice;
 public class StringBuilderWithLock {
     public static void main(String[] args) throws InterruptedException {
         final StringBuilder sb = new StringBuilder();

@@ -1,5 +1,4 @@
-package ArrayPractice;
-
+package src.ArrayPractice;
 class Student {
     String name;
     int age;

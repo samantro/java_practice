@@ -1,4 +1,4 @@
-package StringPractice;
+package src.StringPractice;
 public class StringBufferDemo {
     public static void main(String[] args) throws InterruptedException {
         final StringBuffer sbuf = new StringBuffer();

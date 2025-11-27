@@ -1,4 +1,4 @@
-package StringPractice;
+package src.StringPractice;
 public class StringPerfCompare {
     static final int N = 5_000_00; // 500k appends
 

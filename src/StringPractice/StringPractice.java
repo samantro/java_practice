@@ -1,4 +1,4 @@
-package StringPractice;
+package src.StringPractice;
 
 public class StringPractice {
   public static void main(String[] args) {
