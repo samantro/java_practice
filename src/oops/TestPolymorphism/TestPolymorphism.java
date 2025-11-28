@@ -23,8 +23,9 @@ class Dog extends Animal {
 public class TestPolymorphism {
     public static void main(String[] args) {
         Animal a = new Dog(); // Upcasting
-        Animal.eat(); // Dog's implementation
+        Animal.eat(); // Animal's static method
         Dog.eat(); // Animal's static method
+        a.eat(); // Animal's static method
         a.sound(); // Dog's implementation
         Dog b = new Dog();
         b.sound(); // Dog's implementation
